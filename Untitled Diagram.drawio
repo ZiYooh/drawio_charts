@@ -1,107 +1,238 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T15:49:08.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="d1SfxrCnvVguF3IdaPzP" version="15.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-02T12:55:47.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="BBt2O1wWfuN2kikZ3-7i" version="15.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1673" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="emG7d5RUnfRBMHwXVIp8-46" target="emG7d5RUnfRBMHwXVIp8-49">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-46" value="시작" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="77" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-52" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="emG7d5RUnfRBMHwXVIp8-47" target="emG7d5RUnfRBMHwXVIp8-48">
-          <mxGeometry x="-0.1765" y="-10" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="emG7d5RUnfRBMHwXVIp8-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1;strokeColor=default;labelBackgroundColor=default;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="emG7d5RUnfRBMHwXVIp8-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-53" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="emG7d5RUnfRBMHwXVIp8-47" target="emG7d5RUnfRBMHwXVIp8-49">
-          <mxGeometry x="-0.9729" y="-20" relative="1" as="geometry">
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="emG7d5RUnfRBMHwXVIp8-46" target="Mw8cX4aDjU8FY59z5XJO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="emG7d5RUnfRBMHwXVIp8-46" value="시작" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1;strokeColor=default;labelBackgroundColor=default;fontColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="50" y="269.94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="emG7d5RUnfRBMHwXVIp8-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1;strokeColor=default;labelBackgroundColor=default;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="emG7d5RUnfRBMHwXVIp8-49" target="emG7d5RUnfRBMHwXVIp8-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="emG7d5RUnfRBMHwXVIp8-49" value="보행 신호등&lt;br style=&quot;font-size: 13px&quot;&gt;빨간불&lt;br&gt;(w_flag = 0)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1;strokeColor=default;labelBackgroundColor=default;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="269.94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="emG7d5RUnfRBMHwXVIp8-50" target="emG7d5RUnfRBMHwXVIp8-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="983" y="249.94" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="982" y="60" />
-              <mxPoint x="367" y="60" />
+              <mxPoint x="943" y="179.94" />
+              <mxPoint x="540" y="179.94" />
             </Array>
-            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-47" value="자동차 침범 이벤트" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="872" y="135" width="220" height="70" as="geometry" />
+        <mxCell id="emG7d5RUnfRBMHwXVIp8-50" value="보행 신호등&lt;br style=&quot;font-size: 13px&quot;&gt;초록불&lt;br&gt;(w_flag = 1)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1;fillColor=default;strokeColor=default;fontColor=default;labelBackgroundColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="880" y="269.94" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="emG7d5RUnfRBMHwXVIp8-48" target="emG7d5RUnfRBMHwXVIp8-81">
+        <mxCell id="emG7d5RUnfRBMHwXVIp8-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1;strokeColor=default;labelBackgroundColor=default;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="emG7d5RUnfRBMHwXVIp8-59" target="emG7d5RUnfRBMHwXVIp8-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-48" value="차단기 활성화" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="667" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="emG7d5RUnfRBMHwXVIp8-59" value="자동차 신호등&lt;br style=&quot;font-size: 13px&quot;&gt;초록불&lt;br&gt;(c_flag = 2)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1;strokeColor=default;labelBackgroundColor=default;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="569.94" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="emG7d5RUnfRBMHwXVIp8-49" target="emG7d5RUnfRBMHwXVIp8-50">
+        <mxCell id="emG7d5RUnfRBMHwXVIp8-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1;strokeColor=default;labelBackgroundColor=default;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="emG7d5RUnfRBMHwXVIp8-62" target="emG7d5RUnfRBMHwXVIp8-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-49" value="보행 신호등&lt;br style=&quot;font-size: 13px;&quot;&gt;빨간불" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="307" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="emG7d5RUnfRBMHwXVIp8-62" value="자동차 신호등&lt;br style=&quot;font-size: 13px&quot;&gt;주황불&lt;br&gt;(c_flag = 1)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1;strokeColor=default;labelBackgroundColor=default;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="569.94" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="emG7d5RUnfRBMHwXVIp8-50" target="emG7d5RUnfRBMHwXVIp8-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-50" value="보행 신호등&lt;br style=&quot;font-size: 13px;&quot;&gt;초록불" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="922" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="emG7d5RUnfRBMHwXVIp8-59" target="emG7d5RUnfRBMHwXVIp8-62">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-59" value="자동차 신호등&lt;br style=&quot;font-size: 13px;&quot;&gt;초록불" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="307" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="emG7d5RUnfRBMHwXVIp8-62" target="emG7d5RUnfRBMHwXVIp8-63">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-62" value="자동차 신호등&lt;br style=&quot;font-size: 13px;&quot;&gt;주황불" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="507" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="emG7d5RUnfRBMHwXVIp8-63" target="emG7d5RUnfRBMHwXVIp8-59">
+        <mxCell id="emG7d5RUnfRBMHwXVIp8-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;fontStyle=1;strokeColor=default;labelBackgroundColor=default;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="emG7d5RUnfRBMHwXVIp8-63" target="emG7d5RUnfRBMHwXVIp8-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="767" y="780" />
-              <mxPoint x="367" y="780" />
+              <mxPoint x="940" y="719.94" />
+              <mxPoint x="540" y="719.94" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-63" value="자동차 신호등&lt;br style=&quot;font-size: 13px;&quot;&gt;빨간불" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="707" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="emG7d5RUnfRBMHwXVIp8-63" value="자동차 신호등&lt;br style=&quot;font-size: 13px&quot;&gt;빨간불&lt;br&gt;(c_flag = 0)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1;strokeColor=default;labelBackgroundColor=default;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="880" y="569.94" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-65" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="emG7d5RUnfRBMHwXVIp8-59">
+        <mxCell id="emG7d5RUnfRBMHwXVIp8-65" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=1;strokeColor=default;labelBackgroundColor=default;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="emG7d5RUnfRBMHwXVIp8-59" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="247" y="360" as="sourcePoint" />
-            <mxPoint x="787" y="430" as="targetPoint" />
+            <mxPoint x="420" y="299.94" as="sourcePoint" />
+            <mxPoint x="960" y="369.94" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="247" y="660" />
+              <mxPoint x="420" y="599.94" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-67" value="블루투스로&lt;br style=&quot;font-size: 13px;&quot;&gt;빨간불 로그 전송" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="307" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-75" value="블루투스로&lt;br style=&quot;font-size: 13px;&quot;&gt;초록불 로그 전송" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="922" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-76" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="emG7d5RUnfRBMHwXVIp8-49">
+        <mxCell id="emG7d5RUnfRBMHwXVIp8-76" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;fontStyle=1;strokeColor=default;labelBackgroundColor=default;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="emG7d5RUnfRBMHwXVIp8-49" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="367" y="449" as="sourcePoint" />
-            <mxPoint x="367" y="399" as="targetPoint" />
+            <mxPoint x="540" y="388.94" as="sourcePoint" />
+            <mxPoint x="540" y="338.94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-77" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="emG7d5RUnfRBMHwXVIp8-77" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;fontStyle=1;fillColor=default;strokeColor=default;fontColor=default;labelBackgroundColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="981.4100000000001" y="449" as="sourcePoint" />
-            <mxPoint x="981.4100000000001" y="390" as="targetPoint" />
+            <mxPoint x="939.4100000000001" y="388.94" as="sourcePoint" />
+            <mxPoint x="939.4100000000001" y="329.94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="emG7d5RUnfRBMHwXVIp8-81">
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-1" value="&lt;span style=&quot;font-size: 13px ; font-weight: 700&quot;&gt;블루투스로&lt;/span&gt;&lt;br style=&quot;font-size: 13px ; font-weight: 700&quot;&gt;&lt;span style=&quot;font-size: 13px ; font-weight: 700&quot;&gt;빨간불 로그 출력&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="389.94" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-2" value="&lt;span style=&quot;font-size: 13px ; font-weight: 700&quot;&gt;블루투스로&lt;/span&gt;&lt;br style=&quot;font-size: 13px ; font-weight: 700&quot;&gt;&lt;span style=&quot;font-size: 13px ; font-weight: 700&quot;&gt;초록불 로그 출력&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="389.94" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-6" value="&#xa;&#xa;&lt;span style=&quot;font-family: helvetica; font-size: 13px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Main Program&lt;/span&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontSize=13;fontColor=default;labelBorderColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="65" y="239.94" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mw8cX4aDjU8FY59z5XJO-8" target="Mw8cX4aDjU8FY59z5XJO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-8" value="시작" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1;strokeColor=default;labelBackgroundColor=default;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="15" y="880" width="120" height="60.06" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mw8cX4aDjU8FY59z5XJO-9" target="Mw8cX4aDjU8FY59z5XJO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-9" value="&lt;b&gt;센서로 횡단보도&lt;br&gt;보행자 인식&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="880.06" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-10" value="&lt;b&gt;신호등 타이머,&lt;br&gt;상태 flag들 초기화&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="269.94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mw8cX4aDjU8FY59z5XJO-13" target="Mw8cX4aDjU8FY59z5XJO-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-13" value="&lt;b&gt;ws_flag = 1로 변경&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="415" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-49" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mw8cX4aDjU8FY59z5XJO-17" target="Mw8cX4aDjU8FY59z5XJO-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-57" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mw8cX4aDjU8FY59z5XJO-17" target="Mw8cX4aDjU8FY59z5XJO-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-17" value="&lt;b&gt;c_flag = 0&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="415" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mw8cX4aDjU8FY59z5XJO-27" target="Mw8cX4aDjU8FY59z5XJO-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-27" value="&lt;b&gt;보행자 센서에서 사라질 때 까지 대기&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="994" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-29" value="&lt;b&gt;ws_flag = 0로 변경&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="994" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-33" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot; ; font-size: 13px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;보행 신호 flag 기준&lt;br&gt;0 = 빨간불&lt;br&gt;1 = 초록불&lt;/span&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontSize=13;fontColor=default;labelBorderColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="685" y="189.94" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-34" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 13px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;자동차 신호 flag 기준&lt;br&gt;0 = 빨간불&lt;br&gt;1 = 주황불&lt;br&gt;2 = 초록불&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontSize=13;fontColor=default;labelBorderColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="685" y="460" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-36" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 13px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;flag는 총 4개가 존재&lt;br&gt;&lt;br&gt;1) 보행 신호 flag (이하 w_flag)&lt;br&gt;2) 자동차 신호 flag (이하 c_flag)&lt;br&gt;3) 보행자 센서 flag (이하 ws_flag)&lt;br&gt;4) 자동차 센서 flag (이하 cs_flag)&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontSize=13;fontColor=default;labelBorderColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="350" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mw8cX4aDjU8FY59z5XJO-38" target="Mw8cX4aDjU8FY59z5XJO-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-38" value="시작" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1;strokeColor=default;labelBackgroundColor=default;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="15" y="1160" width="120" height="60.06" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mw8cX4aDjU8FY59z5XJO-40" target="Mw8cX4aDjU8FY59z5XJO-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-40" value="&lt;b&gt;센서로 자동차 정지선 침범 인식&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="1160.06" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mw8cX4aDjU8FY59z5XJO-42" target="Mw8cX4aDjU8FY59z5XJO-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-42" value="&lt;b&gt;cs_flag = 1로 변경&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="415" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mw8cX4aDjU8FY59z5XJO-44" target="Mw8cX4aDjU8FY59z5XJO-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-44" value="&lt;b&gt;자동차 센서에서 사라질 때 까지 대기&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-45" value="&lt;b&gt;cs_flag = 0로 변경&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1040" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mw8cX4aDjU8FY59z5XJO-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="367" y="169.99999999999977" as="targetPoint" />
+            <mxPoint x="794.9999999999995" y="1540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="emG7d5RUnfRBMHwXVIp8-81" value="블루투스로&lt;br style=&quot;font-size: 13px;&quot;&gt;횡단보도 침범 알림" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="467" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-48" value="&lt;b&gt;자동차 차단기&lt;br&gt;작동&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="595" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-53" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mw8cX4aDjU8FY59z5XJO-50">
+          <mxGeometry x="-0.8377" relative="1" as="geometry">
+            <mxPoint x="730" y="1570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="475" y="1570" />
+            </Array>
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-50" value="&lt;b&gt;ws_flag = 1&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="415" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-51" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Mw8cX4aDjU8FY59z5XJO-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="1430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mw8cX4aDjU8FY59z5XJO-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="794.9999999999995" y="1540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-52" value="&lt;b&gt;자동차 차단기&lt;br&gt;작동&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="595" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mw8cX4aDjU8FY59z5XJO-58" target="Mw8cX4aDjU8FY59z5XJO-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="675" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mw8cX4aDjU8FY59z5XJO-58" target="Mw8cX4aDjU8FY59z5XJO-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-58" value="&lt;b&gt;w_flag = 0&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="615" y="880.06" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mw8cX4aDjU8FY59z5XJO-61" target="Mw8cX4aDjU8FY59z5XJO-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-61" value="&lt;b&gt;경보음 발생&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-64" value="&lt;span style=&quot;font-size: 13px ; font-weight: 700&quot;&gt;블루투스로&lt;/span&gt;&lt;br style=&quot;font-size: 13px ; font-weight: 700&quot;&gt;&lt;span style=&quot;font-size: 13px ; font-weight: 700&quot;&gt;빨간불 로그 출력&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="399.94" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mw8cX4aDjU8FY59z5XJO-66" target="Mw8cX4aDjU8FY59z5XJO-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-66" value="&lt;span style=&quot;font-size: 13px ; font-weight: 700&quot;&gt;블루투스로&lt;/span&gt;&lt;br style=&quot;font-size: 13px ; font-weight: 700&quot;&gt;&lt;span style=&quot;font-size: 13px ; font-weight: 700&quot;&gt;침범 로그 출력&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="1530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;exitX=0.534;exitY=0.802;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mw8cX4aDjU8FY59z5XJO-72" target="Mw8cX4aDjU8FY59z5XJO-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-72" value="&lt;span style=&quot;font-size: 13px ; font-weight: 700&quot;&gt;블루투스로&lt;/span&gt;&lt;br style=&quot;font-size: 13px ; font-weight: 700&quot;&gt;&lt;span style=&quot;font-size: 13px ; font-weight: 700&quot;&gt;무단횡단 로그 출력&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="990" y="870" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-76" value="&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot; ; font-size: 13px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;Interrupt 1 Routine&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontSize=13;fontColor=default;labelBorderColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="850" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8cX4aDjU8FY59z5XJO-78" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 13px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;Interrupt 2 Routine&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontSize=13;fontColor=default;labelBorderColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="1130" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
