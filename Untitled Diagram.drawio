@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T12:55:47.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="BBt2O1wWfuN2kikZ3-7i" version="15.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-02T12:57:38.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="gSUfKfaMtdc5oYNFq12o" version="15.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1673" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -212,9 +212,6 @@
         </mxCell>
         <mxCell id="Mw8cX4aDjU8FY59z5XJO-61" value="&lt;b&gt;경보음 발생&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="800" y="880" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Mw8cX4aDjU8FY59z5XJO-64" value="&lt;span style=&quot;font-size: 13px ; font-weight: 700&quot;&gt;블루투스로&lt;/span&gt;&lt;br style=&quot;font-size: 13px ; font-weight: 700&quot;&gt;&lt;span style=&quot;font-size: 13px ; font-weight: 700&quot;&gt;빨간불 로그 출력&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="399.94" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Mw8cX4aDjU8FY59z5XJO-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=13;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mw8cX4aDjU8FY59z5XJO-66" target="Mw8cX4aDjU8FY59z5XJO-45">
           <mxGeometry relative="1" as="geometry" />
